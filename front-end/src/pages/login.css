@@ -1,0 +1,26 @@
+.RegisterButton {
+  background-color: #036b52;
+  border-color: #421981;
+}
+
+.RegisterButton:hover {
+  background-color: #2fc18c;
+  border-color: #421981;
+}
+
+.LoginButton {
+  background-color: #036b52;
+  border-color: #2fc18c;
+}
+
+.LoginButton:hover {
+  background-color: #2fc18c;
+  border-color: #036b52;
+}
+
+
+/*
+    #036b52 = Buttons
+    #2fc18c = Borders
+    #421981
+*/

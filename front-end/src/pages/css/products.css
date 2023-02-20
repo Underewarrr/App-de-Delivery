@@ -1,0 +1,79 @@
+.Card {
+  border-color: #2fc18c;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 3rem;
+  transition: 0.3s;
+}
+
+/*
+    #036b52 = Buttons
+    #2fc18c = Borders
+    #421981
+*/
+
+/* .Card:hover {
+
+.addButon {
+  background-color: #421981;
+
+}
+
+.Card:hover {
+  box-shadow: #036b52 0 54px 55px , #421981 0 12px 13px , #036b52 0 -3px 5px;
+  transform: scale(1.1);
+} */
+
+.P_card_img_box {
+  background-color: white;
+  max-height: 300px;
+}
+
+.Card-img {
+  margin: auto 0 0;
+  max-height: 300px;
+  min-height: 200px;
+}
+
+.btn-home-card {
+  border-color: #036b52;
+}
+
+.P_card_body {
+  height: 130px;
+}
+
+.P_box_itens {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.D_box_itens {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.P_preco {
+  background-color: #036b52;
+  border-color: #2fc18c;
+  border-radius: 0.1rem;
+}
+
+.P_cart_button {
+  background-color: #036b52;
+}
+
+.P_cart_button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.P_input_card {
+  text-align: center;
+  width: 80px;
+}
