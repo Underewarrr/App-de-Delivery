@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Teste if docker build imagem in backend
-      run: docker build . --file back-end/Dockerfile --tag -devlivery-backend-end:$(date +%s)
+      run: docker build . --file back-end/Dockerfile
