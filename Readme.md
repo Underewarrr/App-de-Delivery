@@ -25,10 +25,8 @@ O mesmo acontece para o cliente ele ira receber as atualizações de seus pedido
 - React Bootstrap
 - React Hooks
 - React Context
-- TypeScript
 
 ## Tecnologias Utilizadas Back-end
-- TypeScript
 - NodeJs
 - Express
 - Sequelize
